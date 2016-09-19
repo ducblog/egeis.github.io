@@ -4,10 +4,10 @@ tagline: Website and Unity Developer
 description: >
   Portfolio of Richard Coan, Web Developer and Unity Programmer.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://egeis.github.io" # the base hostname & protocol for your site
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
 
 #Social Media
-github_username:  egeis
+github_username: egeis
 
 #posts default
 author: "Richard Coan"

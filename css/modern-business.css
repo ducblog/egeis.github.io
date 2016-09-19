@@ -73,6 +73,20 @@ footer {
     margin: 50px 0;
 }
 
+/* social media styles */
+.social-media-list
+{
+	list-style:none;
+	margin:0;
+	padding:0;
+	text-align:right;
+}
+
+.social-media-list li a span.username
+{
+	display: none;
+}
+
 /* Responsive Styles */
 
 @media(max-width:991px) {
